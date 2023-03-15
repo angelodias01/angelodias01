@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justastudent01&show_icons=true&locale=en&layout=compact" alt="justastudent01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justastudent0&show_icons=true&locale=en" alt="justastudent01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justastudent01&show_icons=true&locale=en" alt="justastudent01" /></p>
 
 <!---
 JustaStudent01/JustaStudent01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
