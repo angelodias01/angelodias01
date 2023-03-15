@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @JustaStudent01</h1>
+<h1 align="center">Hi 👋, I'm @JustaStudent01!</h1>
 <h3 align="center">I'm interested in programming and i'm currently studying Computer Science</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, HTML, CSS**
