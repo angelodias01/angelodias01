@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on Pootis Quiz Mobile App
-- 
--🌱 I’m currently learning HTML, CSS, JavaScript and Mobile development with Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Mobile development with Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
