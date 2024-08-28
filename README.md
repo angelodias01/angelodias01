@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Just a Student</h1>
 
 # 💫 About Me:
-🔭 I've learned HTML, CSS, JavaScript, Java, C, C#, Xamarin.<br>🌱 I’m currently learning Laravel, Tailwind, JavaScript, C++, PHP, Python, and Mobile development with Java.
+🔭 I've learned HTML, CSS, JavaScript, Java, C, C++, C#, Xamarin, Laravel, Tailwind, JavaScript, PHP, and Mobile development with Java<br>🌱 I’m currently learning Python.
 
 
 ## 🌐 Socials:
