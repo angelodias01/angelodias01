@@ -1,8 +1,26 @@
 <h1 align="center">Hi 👋, I'm Just a Student</h1>
 
 # 💫 About Me:
-🔭 I've learned HTML, CSS, JavaScript, Java, C, C++, C#, Xamarin, Laravel, Tailwind, JavaScript, PHP, and Mobile development with Java<br>🌱 I’m currently learning Python.
-
+📚 Courses and Technologies Learned
+  🎓 Professional Course
+    Languages & Technologies:
+    HTML, CSS
+    C# (ASP.NET, Xamarin)
+  🎓 Higher Technical Course
+    Languages & Technologies:
+    Java
+    JavaScript
+    PHP
+    Laravel
+    Mobile Development with Java
+🎓 Bachelor’s Degree in Computer Engineering
+    Languages & Technologies:
+    C, C++
+    Python
+🤓 Self-Taught Learning
+    Languages & Technologies:
+    Python
+    Tailwind CSS
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@justastudentt) 
