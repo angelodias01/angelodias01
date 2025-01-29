@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Just a Student</h1>
 
 # 💫 About Me:
-📚 Courses and Technologies Learned
-  🎓 Professional Course
-    Languages & Technologies:
-    HTML, CSS
-    C# (ASP.NET, Xamarin)
-  🎓 Higher Technical Course
-    Languages & Technologies:
-    Java
-    JavaScript
-    PHP
-    Laravel
-    Mobile Development with Java
-🎓 Bachelor’s Degree in Computer Engineering
-    Languages & Technologies:
-    C, C++
-    Python
-🤓 Self-Taught Learning
-    Languages & Technologies:
-    Python
-    Tailwind CSS
+<p>📚 <strong>Courses and Technologies Learned</strong></p>
+
+<p>🎓 <strong>Professional Course</strong><br>
+<strong>Languages & Technologies:</strong><br>
+HTML, CSS<br>
+C# (ASP.NET, Xamarin)</p>
+
+<p>🎓 <strong>Higher Technical Course</strong><br>
+<strong>Languages & Technologies:</strong><br>
+Java<br>
+JavaScript<br>
+PHP<br>
+Laravel<br>
+Mobile Development with Java</p>
+
+<p>🎓 <strong>Bachelor’s Degree in Computer Engineering</strong><br>
+<strong>Languages & Technologies:</strong><br>
+C, C++<br>
+Python</p>
+
+<p>🤓 <strong>Self-Taught Learning</strong><
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@justastudentt) 
