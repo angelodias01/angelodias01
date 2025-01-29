@@ -4,24 +4,28 @@
 <p>📚 <strong>Courses and Technologies Learned</strong></p>
 
 <p>🎓 <strong>Professional Course</strong><br>
-<strong>Languages & Technologies:</strong><br>
-HTML, CSS<br>
-C# (ASP.NET, Xamarin)</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;C# (ASP.NET, Xamarin)</p>
 
 <p>🎓 <strong>Higher Technical Course</strong><br>
-<strong>Languages & Technologies:</strong><br>
-Java<br>
-JavaScript<br>
-PHP<br>
-Laravel<br>
-Mobile Development with Java</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;JavaScript<br>
+&nbsp;&nbsp;&nbsp;&nbsp;PHP<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Laravel<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mobile Development with Java</p>
 
 <p>🎓 <strong>Bachelor’s Degree in Computer Engineering</strong><br>
-<strong>Languages & Technologies:</strong><br>
-C, C++<br>
-Python</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;C, C++<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Python</p>
 
-<p>🤓 <strong>Self-Taught Learning</strong><
+<p>🤓 <strong>Self-Taught Learning</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS</p>
+
 
 
 ## 🌐 Socials:
