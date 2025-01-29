@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Just a Student</h1>
+<h1 align="center">Hi 👋, I'm Ângelo Dias</h1>
 
 # 💫 About Me:
 ## 📚 Courses and Technologies Learned  
