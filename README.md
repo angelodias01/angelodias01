@@ -1,31 +1,30 @@
 <h1 align="center">Hi 👋, I'm Just a Student</h1>
 
 # 💫 About Me:
-<p>📚 <strong>Courses and Technologies Learned</strong></p>
+## 📚 Courses and Technologies Learned  
 
-<p>🎓 <strong>Professional Course</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;C# (ASP.NET, Xamarin)</p>
+### 🎓 Professional Course  
+   **Languages & Technologies:**  
+   - HTML, CSS  
+   - C# (ASP.NET, Xamarin)  
 
-<p>🎓 <strong>Higher Technical Course</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Java<br>
-&nbsp;&nbsp;&nbsp;&nbsp;JavaScript<br>
-&nbsp;&nbsp;&nbsp;&nbsp;PHP<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Laravel<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Mobile Development with Java</p>
+### 🎓 Higher Technical Course  
+   **Languages & Technologies:**  
+   - Java  
+   - JavaScript  
+   - PHP  
+   - Laravel  
+   - Mobile Development with Java  
 
-<p>🎓 <strong>Bachelor’s Degree in Computer Engineering</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;C, C++<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Python</p>
+### 🎓 Bachelor’s Degree in Computer Engineering  
+   **Languages & Technologies:**  
+   - C, C++  
+   - Python  
 
-<p>🤓 <strong>Self-Taught Learning</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Languages & Technologies:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Python<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS</p>
-
+### 🤓 Self-Taught Learning  
+   **Languages & Technologies:**  
+   - Python  
+   - Tailwind CSS  
 
 
 ## 🌐 Socials:
