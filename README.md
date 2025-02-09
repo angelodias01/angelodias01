@@ -19,15 +19,15 @@
 ### 🎓 Bachelor’s Degree in Computer Engineering  
    **Languages & Technologies:**  
    - C, C++  
-   - Python  
+   - Python  (Learning)
 
 ### 🤓 Self-Taught Learning  
    **Languages & Technologies:**  
-   - Python  
+   - Python (Learning)
    - Tailwind CSS
-   - TypeScript
-   - React
-   - ReactNative
+   - TypeScript (Learning)
+   - React (Learning)
+   - ReactNative (Learning)
 
 
 ## 🌐 Socials:
