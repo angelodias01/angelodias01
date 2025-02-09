@@ -24,7 +24,10 @@
 ### 🤓 Self-Taught Learning  
    **Languages & Technologies:**  
    - Python  
-   - Tailwind CSS  
+   - Tailwind CSS
+   - TypeScript
+   - React
+   - ReactNative
 
 
 ## 🌐 Socials:
